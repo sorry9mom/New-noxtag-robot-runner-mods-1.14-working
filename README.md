@@ -1,3 +1,1 @@
-# New-noxtag-robot-runner-mods-1.14-working
-sa
-updated mods might crash
+you need codegen to run the mods you shoud see it in relases ------->
